@@ -12,7 +12,7 @@ wxb3434eaf2bf5c16d",
     // 模板消息id
     TEMPLATE_ID: "biNpiPPtnnapLq_r90pW3xSfYQl8FSh7XV3-58qVs",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-    USERS: ["ooDWp5hnR5LeX6xhnLBLJArnJfHs"],
+    USERS: ["Z-14013"],
      
     /**
      * 信息配置
