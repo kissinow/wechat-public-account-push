@@ -10,9 +10,9 @@ wxb3434eaf2bf5c16d",
     APP_SECRET: "76bbf16b32ad4cda19be99e78d40d270
 ",
     // 模板消息id
-    TEMPLATE_ID: "ooDWp5hnR5LeX6xhnLBLJArnJfHs",
+    TEMPLATE_ID: "biNpiPPtnnapLq_r90pW3xSfYQl8FSh7XV3-58qVs",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-    USERS: ["Z-14013","ooDWp5hnR5LeX6xhnLBLJArnJfHs"],
+    USERS: ["ooDWp5hnR5LeX6xhnLBLJArnJfHs"],
      
     /**
      * 信息配置
